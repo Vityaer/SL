@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a5f05ec31dc51284a89c9d3daf23ba79
+timeCreated: 1519375731
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Augustina script
+  fontNames:
+  - Augustina script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
